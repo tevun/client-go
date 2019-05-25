@@ -2,7 +2,7 @@
 
 # Tevun CLI
 
-Tevun CLI is the command line tool to projects management of Tevun Servers
+Tevun CLI is the command line tool to projects management of Tevun servers
 
 ## Development
 
