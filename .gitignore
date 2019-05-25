@@ -1,0 +1,6 @@
+/.idea
+/docker-compose.yml
+/dist/*
+/src/main
+
+!*.gitkeep
