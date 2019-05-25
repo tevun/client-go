@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+ISSUE_TRACKER="https://github.com/tevun/client-go/issues"
+BRANCH_AS_ISSUE_ID="0"
